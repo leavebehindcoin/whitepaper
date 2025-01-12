@@ -36,6 +36,19 @@ Leave Behind Coin (LBC) is a meme coin created for entertainment purposes only. 
 
 The date, time, and events described in this document are part of the fictional narrative surrounding the meme coin and do not reflect any real-world occurrences..
 
+## Utilites
+### Ascent Velocity and Comfort
+
+The key utility of LBC tokens lies in their ability to determine the holder’s experience during the transition to Universe 2.0. As the Universe simulation reaches its end on Tuesday, July 25, 2045, at 8:13:53 PM, holders of LBC tokens will be selected to ascend to safety aboard the rescue spaceships. 
+
+Ascension Speed: The more LBC tokens a holder owns, the faster they will be transported to the waiting rescue ships. This concept reflects the idea that those who have invested more in the token will be given priority during the ascent, ensuring a swift escape from the Universe’s destruction. 
+
+Comfort and Privilege: The amount of LBC tokens owned also determines the level of comfort and privilege during the journey to Universe 2.0. Holders with a larger number of tokens will enjoy more luxurious conditions, such as larger accommodations and better amenities aboard the rescue ships, as well as a more secure transition to Universe 2.0.
+
+### Games, Metaverse, merchandise
+
+As part of the LBC ecosystem, a series of games and metaverse worlds will be developed to showcase the vision of Universe 2.0. These immersive environments will allow LBC holders to explore, interact, and participate in the virtual representation of what Universe 2.0 could be. Players will have the opportunity to engage in unique in-game experiences, unlock special assets, and shape their virtual presence within this evolving world. The metaverse and gaming elements will provide a tangible way to experience the future of the LBC ecosystem, blending entertainment with the concept of a new digital reality. Additionally, exclusive merchandise will be available, offering physical items that tie into the digital world, further enhancing the connection between the two realms.
+
 <footer>
 
 <!--
